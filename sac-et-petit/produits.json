@@ -1,0 +1,15 @@
+[
+  {
+    "image": "./immages/im1.jpg",
+    "nom": "Pochette double Mila Louise...",
+    "description": "Description détaillée de la pochette Mila Louise...",
+    "prix": "55,00 €"
+  },
+  {
+    "image": "./immages/im2.jpg",
+    "nom": "Trench beige court",
+    "description": "Description détaillée du trench beige court...",
+    "prix": "69,90 €"
+  }
+]
+

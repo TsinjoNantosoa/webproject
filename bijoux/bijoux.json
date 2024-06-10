@@ -1,0 +1,39 @@
+[
+  {
+    "image": "./immages/im1.jpg",
+    "nom": "Top bleu court à bretelles",
+    "description": "Description détaillée du Top bleu court à bretelles.",
+    "prix": "39,00 €"
+  },
+  {
+    "image": "./immages/im2.jpg",
+    "nom": "Trench beige court",
+    "description": "Description détaillée du Trench beige court.",
+    "prix": "69,90 €"
+  },
+  {
+    "image": "./immages/im3.jpg",
+    "nom": "Jean FAM coupe mom",
+    "description": "Description détaillée du Jean FAM coupe mom.",
+    "prix": "79,90 €"
+  },
+  {
+    "image": "./immages/im4.jpg",
+    "nom": "Chemise verte léopard",
+    "description": "Description détaillée de la Chemise verte léopard.",
+    "prix": "29,00 €"
+  },
+  {
+    "image": "./immages/im5.jpg",
+    "nom": "Bijoux spécifique",
+    "description": "Description détaillée du Bijoux spécifique.",
+    "prix": "39,00 €"
+  },
+  {
+    "image": "./immages/im6.jpg",
+    "nom": "Autre bijoux",
+    "description": "Description détaillée de l'Autre bijoux.",
+    "prix": "39,00 €"
+  }
+]
+

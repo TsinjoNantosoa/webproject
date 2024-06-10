@@ -1,0 +1,60 @@
+{
+  "nouveautes": [
+    {
+      "nom": "Sandales double brides beige",
+      "categorie": "Chaussures",
+      "description": "Spectacular sandales avec deux cordes pour un look audacieux.",
+      "prix": 69.00,
+      "image": "./immages/im1.png"
+    },
+    {
+      "nom": "Sandale en raphia camel",
+      "categorie": "Chaussures",
+      "description": "Une sandale confortable et élégante en raphia camel.",
+      "prix": 69.90,
+      "image": "./immages/im2.png"
+    },
+    {
+      "nom": "Sandales Mi Mai Elvy blanc",
+      "categorie": "Chaussures",
+      "description": "Des sandales Mi Mai élégantes et modernes en blanc.",
+      "prix": 149.00,
+      "image": "./immages/im3.png"
+    },
+    {
+      "nom": "Sandales Mi Mai Dina dorées",
+      "categorie": "Chaussures",
+      "description": "Des sandales Mi Mai dorées pour un look glamour.",
+      "prix": 159.00,
+      "image": "./immages/im4.png"
+    },
+    {
+      "nom": "Sandales Mi Mai Capri nude",
+      "categorie": "Chaussures",
+      "description": "Des sandales Mi Mai Capri en nuance naturelle pour un look minimaliste.",
+      "prix": 149.00,
+      "image": "./immages/im5.png"
+    },
+    {
+      "nom": "Sandales Mi Mai Capri noir",
+      "categorie": "Chaussures",
+      "description": "Des sandales Mi Mai Capri en noir pour un look urbain.",
+      "prix": 149.00,
+      "image": "./immages/im6.png"
+    },
+    {
+      "nom": "Sneakers Victoria blanc",
+      "categorie": "Chaussures",
+      "description": "Des sneakers Victoria blanches pour un look casual chic.",
+      "prix": 119.00,
+      "image": "./immages/im7.png"
+    },
+    {
+      "nom": "Sneakers Victoria couleurs...",
+      "categorie": "Chaussures",
+      "description": "Des sneakers Victoria multicolores pour un look audacieux.",
+      "prix": 119.00,
+      "image": "./immages/im8.png"
+    }
+  ]
+}
